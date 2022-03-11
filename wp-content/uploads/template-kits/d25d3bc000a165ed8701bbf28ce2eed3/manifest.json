@@ -1,0 +1,1129 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "Adra - Modern and Creative Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "3.0.10",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/adra.stylewish.org",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 (pro)",
+            "screenshot": "screenshots\/404-pro-.jpg",
+            "source": "templates\/404-pro-.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=404-block-pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing (pro)",
+            "screenshot": "screenshots\/pricing-pro-.jpg",
+            "source": "templates\/pricing-pro-.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=pricing-pro",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home (pro)",
+            "screenshot": "screenshots\/home-pro-.jpg",
+            "source": "templates\/home-pro-.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=home-pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About (pro)",
+            "screenshot": "screenshots\/about-pro-.jpg",
+            "source": "templates\/about-pro-.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=about-pro",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=pricing",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=contact",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team (pro)",
+            "screenshot": "screenshots\/team-pro-.jpg",
+            "source": "templates\/team-pro-.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=team",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Careers",
+            "screenshot": "screenshots\/careers.jpg",
+            "source": "templates\/careers.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=careers",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=portfolio",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Cases",
+            "screenshot": "screenshots\/cases.jpg",
+            "source": "templates\/cases.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=cases",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact (pro)",
+            "screenshot": "screenshots\/contact-pro-.jpg",
+            "source": "templates\/contact-pro-.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=contact-pro",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=services",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=about-1",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?envato_tk_templates=home",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Block (pro)",
+            "screenshot": "screenshots\/footer-block-pro-.jpg",
+            "source": "templates\/footer-block-pro-.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?elementor_library=footer-block-pro",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup Block (pro)",
+            "screenshot": "screenshots\/popup-block-pro-.jpg",
+            "source": "templates\/popup-block-pro-.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?elementor_library=popup",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/2145"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Page #2145."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header Block (pro)",
+            "screenshot": "screenshots\/header-block-pro-.jpg",
+            "source": "templates\/header-block-pro-.json",
+            "preview_url": "https:\/\/adra.stylewish.org\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.5",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.10",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "portrait-of-beautiful-young-woman-with-bright-pink-makeup--e1601362061369.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/portrait-of-beautiful-young-woman-with-bright-pink-makeup--600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-pro-.json",
+                    "name": "Pricing (pro)"
+                },
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team-pro-.json",
+                    "name": "Team (pro)"
+                },
+                {
+                    "source": "templates\/cases.json",
+                    "name": "Cases"
+                }
+            ],
+            "filesize": 23090,
+            "dimensions": [
+                467,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BF686FY"
+        },
+        {
+            "filename": "beautiful-young-fashion-woman-with-pink-lipstick-glamour-fashion-model-with-bright-make-up-e1601362050840.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/beautiful-young-fashion-woman-with-pink-lipstick-glamour-fashion-model-with-bright-make-up-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-pro-.json",
+                    "name": "Pricing (pro)"
+                },
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team-pro-.json",
+                    "name": "Team (pro)"
+                },
+                {
+                    "source": "templates\/cases.json",
+                    "name": "Cases"
+                }
+            ],
+            "filesize": 14574,
+            "dimensions": [
+                350,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BH4YQTK"
+        },
+        {
+            "filename": "beautiful-woman-with-long-curly-hair-and-purple-make-up--e1601362072649.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/beautiful-woman-with-long-curly-hair-and-purple-make-up--600x615.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-pro-.json",
+                    "name": "Pricing (pro)"
+                },
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                },
+                {
+                    "source": "templates\/team-pro-.json",
+                    "name": "Team (pro)"
+                },
+                {
+                    "source": "templates\/cases.json",
+                    "name": "Cases"
+                }
+            ],
+            "filesize": 29635,
+            "dimensions": [
+                350,
+                359
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2KWTQKT"
+        },
+        {
+            "filename": "creative-workplace-in-home-e1600672811629.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/08\/creative-workplace-in-home-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-pro-.json",
+                    "name": "Pricing (pro)"
+                },
+                {
+                    "source": "templates\/about-pro-.json",
+                    "name": "About (pro)"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                },
+                {
+                    "source": "templates\/cases.json",
+                    "name": "Cases"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 238428,
+            "dimensions": [
+                1900,
+                1266
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPB9FTA"
+        },
+        {
+            "filename": "mae-mu-g733A40xl3Q-unsplash-scaled-e1601362199758.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/mae-mu-g733A40xl3Q-unsplash-600x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/cases.json",
+                    "name": "Cases"
+                }
+            ],
+            "filesize": 70230,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/g733A40xl3Q"
+        },
+        {
+            "filename": "mae-mu-_C5zsV_p-YI-unsplash-scaled-e1601362209485.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/mae-mu-_C5zsV_p-YI-unsplash-600x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/cases.json",
+                    "name": "Cases"
+                }
+            ],
+            "filesize": 25248,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/_C5zsV_p-YI"
+        },
+        {
+            "filename": "neil-gardose-58WRkqcAn9o-unsplash-scaled-e1601362218974.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/neil-gardose-58WRkqcAn9o-unsplash-600x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                },
+                {
+                    "source": "templates\/about-pro-.json",
+                    "name": "About (pro)"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/cases.json",
+                    "name": "Cases"
+                }
+            ],
+            "filesize": 77161,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/58WRkqcAn9o"
+        },
+        {
+            "filename": "mae-mu-9z-veIxii6k-unsplash-scaled-e1601362227366.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/mae-mu-9z-veIxii6k-unsplash-600x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                },
+                {
+                    "source": "templates\/about-pro-.json",
+                    "name": "About (pro)"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/cases.json",
+                    "name": "Cases"
+                }
+            ],
+            "filesize": 74836,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/9z-veIxii6k"
+        },
+        {
+            "filename": "mae-mu-GnWKTJlMYsQ-unsplash-scaled-e1601362236620.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/mae-mu-GnWKTJlMYsQ-unsplash-600x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                },
+                {
+                    "source": "templates\/about-pro-.json",
+                    "name": "About (pro)"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/cases.json",
+                    "name": "Cases"
+                }
+            ],
+            "filesize": 29595,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/GnWKTJlMYsQ"
+        },
+        {
+            "filename": "mae-mu-Rz5o0osnN6Q-unsplash-scaled-e1601362244664.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/mae-mu-Rz5o0osnN6Q-unsplash-600x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                },
+                {
+                    "source": "templates\/about-pro-.json",
+                    "name": "About (pro)"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/cases.json",
+                    "name": "Cases"
+                }
+            ],
+            "filesize": 69422,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Rz5o0osnN6Q"
+        },
+        {
+            "filename": "mae-mu-vbAEHCrvXZ0-unsplash-scaled-e1601362254898.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/mae-mu-vbAEHCrvXZ0-unsplash-600x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                },
+                {
+                    "source": "templates\/about-pro-.json",
+                    "name": "About (pro)"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 57274,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/vbAEHCrvXZ0"
+        },
+        {
+            "filename": "mae-mu-1APtYqzNajA-unsplash-scaled-e1601362264949.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/mae-mu-1APtYqzNajA-unsplash-600x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 48954,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/1APtYqzNajA"
+        },
+        {
+            "filename": "elena-koycheva-PFzy4N0_R3M-unsplash-scaled-e1601362189762.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/elena-koycheva-PFzy4N0_R3M-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                }
+            ],
+            "filesize": 37144,
+            "dimensions": [
+                1000,
+                1501
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/PFzy4N0_R3M"
+        },
+        {
+            "filename": "liana-mikah-L5cEmk3ucYY-unsplash-scaled-e1601362178218.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/liana-mikah-L5cEmk3ucYY-unsplash-600x429.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                }
+            ],
+            "filesize": 91050,
+            "dimensions": [
+                1400,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/L5cEmk3ucYY"
+        },
+        {
+            "filename": "mike-meyers-LcZnOtKtOUc-unsplash-scaled-e1601362168126.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/mike-meyers-LcZnOtKtOUc-unsplash-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                }
+            ],
+            "filesize": 67046,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/LcZnOtKtOUc"
+        },
+        {
+            "filename": "liana-mikah-8SqcXjv4PaE-unsplash-scaled-e1601362158376.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/liana-mikah-8SqcXjv4PaE-unsplash-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                }
+            ],
+            "filesize": 120125,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/8SqcXjv4PaE"
+        },
+        {
+            "filename": "amy-shamblen-3G8k9IhI6FE-unsplash-scaled-e1601362144287.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/amy-shamblen-3G8k9IhI6FE-unsplash-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                }
+            ],
+            "filesize": 39841,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/3G8k9IhI6FE"
+        },
+        {
+            "filename": "mike-meyers-haAxbjiHds-unsplash-scaled-e1601362134113.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/mike-meyers-haAxbjiHds-unsplash-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                }
+            ],
+            "filesize": 46589,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/-haAxbjiHds"
+        },
+        {
+            "filename": "annie-spratt-HB-Kf9WLy_0-unsplash-scaled-e1601362124209.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/annie-spratt-HB-Kf9WLy_0-unsplash-600x840.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                }
+            ],
+            "filesize": 47607,
+            "dimensions": [
+                1000,
+                1400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/HB-Kf9WLy_0"
+        },
+        {
+            "filename": "alex-gruber-pz_hAv6ER7c-unsplash-scaled-e1601362101381.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/alex-gruber-pz_hAv6ER7c-unsplash-600x383.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                }
+            ],
+            "filesize": 38091,
+            "dimensions": [
+                1568,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/pz_hAv6ER7c"
+        },
+        {
+            "filename": "miguel-andrade-R3f2emOt1bU-unsplash-scaled-e1601362087110.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/miguel-andrade-R3f2emOt1bU-unsplash-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                }
+            ],
+            "filesize": 36234,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/R3f2emOt1bU"
+        },
+        {
+            "filename": "minimalistic-studio-flat-e1600672878500.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/08\/minimalistic-studio-flat-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-pro-.json",
+                    "name": "Home (pro)"
+                },
+                {
+                    "source": "templates\/about-pro-.json",
+                    "name": "About (pro)"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 261343,
+            "dimensions": [
+                1900,
+                1267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PD6Y5M8"
+        },
+        {
+            "filename": "building-project-blueprint-plan-on-a-computer-screen--e1601361919287.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/08\/building-project-blueprint-plan-on-a-computer-screen--600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-pro-.json",
+                    "name": "About (pro)"
+                }
+            ],
+            "filesize": 43433,
+            "dimensions": [
+                525,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-3DT44TV"
+        },
+        {
+            "filename": "carl-heyerdahl-KE0nC8-58MQ-unsplash-scaled-e1601360912419.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/carl-heyerdahl-KE0nC8-58MQ-unsplash-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-pro-.json",
+                    "name": "About (pro)"
+                }
+            ],
+            "filesize": 30136,
+            "dimensions": [
+                525,
+                350
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/KE0nC8-58MQ"
+        },
+        {
+            "filename": "business-woman-standing-outdoors--e1598443839586.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/08\/business-woman-standing-outdoors--600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 29895,
+            "dimensions": [
+                525,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YF26VED"
+        },
+        {
+            "filename": "creative-coworkers-working-in-office-e1600672886937.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/08\/creative-coworkers-working-in-office-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-pro-.json",
+                    "name": "Team (pro)"
+                }
+            ],
+            "filesize": 240625,
+            "dimensions": [
+                1900,
+                1267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PGH67BM"
+        },
+        {
+            "filename": "team-of-creative-professionals-meeting-in-conference-room-e1598443703239.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/08\/team-of-creative-professionals-meeting-in-conference-room-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-pro-.json",
+                    "name": "Contact (pro)"
+                }
+            ],
+            "filesize": 53173,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQGUJRX"
+        },
+        {
+            "filename": "simple-home-workspace-with-desk-e1601362287604.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/simple-home-workspace-with-desk-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 271165,
+            "dimensions": [
+                1900,
+                1266
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHJ9GQG"
+        },
+        {
+            "filename": "portrait-of-young-man--e1598443828551.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/08\/portrait-of-young-man--600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 29957,
+            "dimensions": [
+                525,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-THP9MVQ"
+        },
+        {
+            "filename": "photo-of-gray-haired-serious-businesswoman-using-cellphone-e1598443848267.jpg",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/08\/photo-of-gray-haired-serious-businesswoman-using-cellphone-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 23565,
+            "dimensions": [
+                525,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LZE8EAC"
+        },
+        {
+            "filename": "logo5.png",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/logo5.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2442,
+            "dimensions": [
+                292,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo1.png",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/logo1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2104,
+            "dimensions": [
+                292,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo2.png",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1812,
+            "dimensions": [
+                292,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo3.png",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/logo3.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2894,
+            "dimensions": [
+                292,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo4.png",
+            "thumbnail_url": "https:\/\/adra.stylewish.org\/wp-content\/uploads\/2020\/09\/logo4.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1703,
+            "dimensions": [
+                292,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "version": "0.4",
+    "title": "Ivent &#8211; Header",
+    "type": "header",
+    "metadata": {
+        "template_type": "section-header",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "header",
+        "elementor_pro_conditions": [
+            "include\/general"
+        ],
+        "additional_template_information": [
+            "This is a \"Header\" template for Elementor Pro.",
+            "This template will display on: Entire Site."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "65451803",
+            "settings": {
+                "custom_height": {
+                    "unit": "px",
+                    "size": 100,
+                    "sizes": []
+                },
+                "structure": "21",
+                "z_index": 20,
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "background_color": "#FFFFFF",
+                "box_shadow_box_shadow_type": "yes",
+                "box_shadow_box_shadow": {
+                    "horizontal": 0,
+                    "vertical": 5,
+                    "blur": 5,
+                    "spread": 0,
+                    "color": "rgba(0, 0, 0, 0.05)"
+                },
+                "sticky": "top"
+            },
+            "elements": [
+                {
+                    "id": "191f66f0",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 16.228,
+                        "content_position": "center",
+                        "_inline_size_mobile": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "220e8349",
+                            "settings": {
+                                "title": "Ivent",
+                                "align": "left",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Permanent Marker",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4ee1f17c",
+                    "settings": {
+                        "_column_size": 66,
+                        "_inline_size": 83.437,
+                        "content_position": "center",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "align": "flex-end",
+                        "_inline_size_mobile": 50,
+                        "content_position_mobile": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "6dc8b35a",
+                            "settings": {
+                                "color_menu_item": "#000000",
+                                "padding_horizontal_menu_item": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "align_items": "right",
+                                "pointer": "overline",
+                                "menu_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "color_menu_item_hover": "#64CCF3",
+                                "pointer_color_menu_item_hover": "#64CCF3",
+                                "color_menu_item_active": "#64CCF3",
+                                "padding_vertical_menu_item": {
+                                    "unit": "px",
+                                    "size": 34,
+                                    "sizes": []
+                                },
+                                "animation_line": "grow",
+                                "full_width": "stretch",
+                                "toggle_align": "right",
+                                "color_dropdown_item_hover": "#FFFFFF",
+                                "background_color_dropdown_item_hover": "#6EC1E4",
+                                "color_dropdown_item_active": "#6EC1E4",
+                                "background_color_dropdown_item_active": "#FFFFFF",
+                                "_element_width": "auto",
+                                "dropdown_typography_typography": "custom",
+                                "dropdown_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "nav-menu",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4aa54532",
+                            "settings": {
+                                "text": "Register",
+                                "align": "right",
+                                "size": "md",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "_element_width": "auto",
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

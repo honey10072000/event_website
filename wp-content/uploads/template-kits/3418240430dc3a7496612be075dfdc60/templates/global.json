@@ -1,0 +1,97 @@
+{
+    "version": "0.4",
+    "title": "Global Kit Styles",
+    "type": "section",
+    "metadata": {
+        "template_type": "global-styles",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "additional_template_information": [
+            "These are the global theme styles configured through the Elementor Theme Styles area."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [],
+    "page_settings": {
+        "h1_typography_typography": "custom",
+        "body_typography_typography": "custom",
+        "body_typography_font_family": "Poppins",
+        "h1_typography_font_weight": "700",
+        "body_typography_font_size": {
+            "unit": "px",
+            "size": "16",
+            "sizes": []
+        },
+        "h1_typography_font_size": {
+            "unit": "rem",
+            "size": "4",
+            "sizes": []
+        },
+        "h2_typography_typography": "custom",
+        "h2_typography_font_family": "Poppins",
+        "h2_typography_font_size": {
+            "unit": "rem",
+            "size": "3.4",
+            "sizes": []
+        },
+        "h2_typography_font_weight": "700",
+        "h3_typography_typography": "custom",
+        "h3_typography_font_family": "Poppins",
+        "h3_typography_font_size": {
+            "unit": "rem",
+            "size": "2.8",
+            "sizes": []
+        },
+        "h3_typography_font_weight": "700",
+        "h4_typography_typography": "custom",
+        "h4_typography_font_family": "Poppins",
+        "h4_typography_font_size": {
+            "unit": "rem",
+            "size": "2.4",
+            "sizes": []
+        },
+        "h4_typography_font_weight": "700",
+        "h5_typography_typography": "custom",
+        "h5_typography_font_family": "Poppins",
+        "h5_typography_font_size": {
+            "unit": "rem",
+            "size": "2",
+            "sizes": []
+        },
+        "h5_typography_font_weight": "700",
+        "h6_typography_typography": "custom",
+        "h6_typography_font_size": {
+            "unit": "rem",
+            "size": "1.6",
+            "sizes": []
+        },
+        "h6_typography_font_weight": "700",
+        "button_typography_typography": "custom",
+        "button_typography_font_family": "Poppins",
+        "button_text_color": "#000000",
+        "button_background_color": "#F8E222",
+        "button_hover_text_color": "#000000",
+        "button_hover_background_color": "#64CCF3",
+        "button_hover_border_radius": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+        },
+        "button_typography_font_weight": "600",
+        "button_border_radius": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": "1"
+        },
+        "link_normal_typography_typography": "custom",
+        "link_normal_typography_font_family": "Poppins",
+        "h1_typography_font_family": "Poppins",
+        "h6_typography_font_family": "Poppins"
+    }
+}
